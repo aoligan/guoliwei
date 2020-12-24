@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "719152",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "826167",
+      "name": "应用",
+      "font_class": "yingyong",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1189637",
+      "name": "收藏夹-填充",
+      "font_class": "shoucangjiatianchong",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5912741",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6129270",
+      "name": "230客服",
+      "font_class": "kefu",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "6888425",
+      "name": "分类 ",
+      "font_class": "fenlei",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "8846170",
+      "name": "我的订单",
+      "font_class": "wodedingdan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "13590692",
+      "name": "小人",
+      "font_class": "xiaoren",
+      "unicode": "f100",
+      "unicode_decimal": 61696
+    },
+    {
+      "icon_id": "16924796",
+      "name": "物流 卡车2",
+      "font_class": "wuliukache2",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    }
+  ]
+}
